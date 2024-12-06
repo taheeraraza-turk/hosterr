@@ -1,0 +1,144 @@
+body{
+ background: rgb(207, 165, 140);
+ align-items: center;
+ justify-content: center;
+ margin: 0;
+ padding: 0;
+}
+.main{
+    background-color: rgba(241, 233, 223);
+    height: 800px;
+    width: 1450px;
+    margin: 100px 100px 100px 190px;
+    border-radius: 45px ;
+}
+.rocket{
+    height: 32px;
+    margin:50px 0px 20px 100px;
+}
+h1{
+    margin: -52px 0px 0px 140px;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+                        
+@import url('https://fonts.googleapis.com/css2?Lato&display=swap');
+
+.btn {
+    cursor: pointer; border: 0px solid rgba(187, 204, 0, 0); font-family: Lato; font-size: 14px; color: rgb(255, 255, 255); padding:5px 0px; transition: 2s; width: 177px; box-shadow: rgb(222, 206, 143) 0px 1px 0px -50px; border-radius: 0px 25px 25px; background: linear-gradient(151deg, rgba(252, 200, 57, 0.79) 5%, rgb(189, 154, 95) 100%); font-weight: 300; --hover-width: 181px; --hover-bgc: #d19f08; --hover-color: #ecf1f5; --hover-borderc: #121112; --hover-borderSize: 2px;
+    margin-left: 250px;
+    width: 120px;
+   bottom: 28px;
+    position: relative;
+}
+
+
+.btn:hover{
+    
+color: rgb(236, 241, 245);
+width: 120px;
+background: rgb(209, 159, 8) none repeat scroll 0% 0% / auto padding-box border-box;
+border-color: rgb(18, 17, 18);
+border-width: 2px;
+border-style: solid;
+
+
+}
+nav{
+    display: block;
+}
+span{
+    margin-left: 150px;
+}
+a{
+    text-decoration: none;
+    color: rgb(245, 166, 120);
+  font-family:sans-serif;
+    font-weight: bold;
+    
+    position: relative;
+    bottom: 20px;
+    margin-left: 30px;
+    font-size: 20px;
+}
+a:hover{
+    color:rgb(175, 108, 69) ;
+}
+.join{
+    background-color: #f5ab8060;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 18px;
+    margin-left: 30px;
+    transition: 1s;
+}
+.join:hover{
+    cursor: pointer;
+    background-color:#f5ab80bd ;
+    margin-left: 35px;
+    padding: 12px 12px 12px 12px;
+    font-size: 20px;
+}
+h2{
+    width: 390px;
+    margin-left: 200px;
+    font-size: 40px;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+p{
+    margin-left: 200px;
+    color: rgb(192, 129, 92);
+    width:360px ;
+    text-align: justify;
+    font-family: papyrus;
+    word-spacing: 2px;
+    margin-top: -30px;
+    font-weight: bold;
+}
+input{
+    margin-left: 200px;
+    height: 40px;
+    width: 250px; 
+    border: none;
+    background-color: white;
+    padding-left: 5px;
+    cursor: pointer;
+}
+.join2{
+    background-color: #f5ab80c7;
+    padding: 15px 10px 15px 10px;
+    cursor: pointer;
+    position: relative;
+    border: none;
+    margin-left: 0px;
+    transition: 1s;
+  
+}
+.check{
+    height: 20px;
+    position: relative;
+    right: 114px;
+   top: 20px;
+   cursor: pointer;
+   accent-color:  #f5ab80c7;
+}
+.checked{
+    position: relative;
+    right: 370px;
+    top: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.girl{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.social{
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
